@@ -1,0 +1,108 @@
+{
+"products": [
+    {
+      "id": 1,
+      "title": "Ground coffee - Perfetto Moka Cioccolato",
+      "img": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/c/i/cioccolato_2.png",
+      "category" : "Grounds",
+      "price" : 500
+    },
+    {
+      "id": 2,
+      "title": "Ground Coffee - Perfetto Moka Classico",
+      "img": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/c/l/classico_1.png",
+      "category" : "Grounds",
+      "price" : 550
+    },
+    {
+      "id": 3,
+      "title": "Ground coffee - Perfetto Moka Decaffeinato",
+      "img": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/d/e/deka_1.png",
+      "category" : "Grounds",
+      "price" : 600
+    },
+    {
+      "id": 4,
+      "title": "Ground coffee - Perfetto Moka Intenso",
+      "img": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/i/n/intenso_1.png",
+      "category" : "Grounds",
+      "price" : 520
+    },
+    {
+      "id": 5,
+      "title": "Ground coffee - Perfetto Moka Irresistibile",
+      "img": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/p/m/pm-irresistibile-barattolo-1.png",
+      "category" : "Grounds",
+      "price" : 700
+    },
+    {
+      "id": 6,
+      "title": "Mug with saucer",
+      "img": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/Y/0/Y0TZ101_01_2.png",
+      "category" : "Mugs",
+      "price" : 450
+    },
+    {
+      "id": 7,
+      "title": "Tricolore Mug",
+      "img": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/D/C/DCMOKI0032_01.png",
+      "category" : "Mugs",
+      "price" : 400
+    },
+    {
+      "id": 8,
+      "title": "Tricolore Mug",
+      "img": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/D/C/DCMOKI0033_01.png",
+      "category" : "Mugs",
+      "price" : 350
+    },
+    {
+      "id": 9,
+      "title": "Coffee Press Smart",
+      "img": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/c/o/coffe_press_1_2.png",
+      "category" : "Mugs",
+      "price" : 510
+    },  {
+      "id": 10,
+      "title": "Mini Express Kandinsky",
+      "img": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/m/i/mini_express_kandinsky.png",
+      "category" : "Coffee Makers",
+      "price" : 1100
+    },
+    {
+      "id": 11,
+      "title": "Mini Express Lichtenstein",
+      "img": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/m/i/mini_express_lichtenstein.png",
+      "category" : "Coffee Makers",
+      "price" : 1000
+    },
+    {
+      "id": 12,
+      "title": "Black Electric Milk Frother",
+      "img": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/m/i/milkfrother_economico_nero_presa.png",
+      "category" : "Mugs",
+      "price" : 250
+    },
+    {
+      "id": 13,
+      "title": "Whipper",
+      "img": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/0/0/0005770_01.png",
+      "category" : "Accesseries",
+      "price" : 1200
+    },
+    {
+      "id": 14,
+      "title": "Red Electric Milk Frother",
+      "img": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/m/i/milkfrother_economico_rosso_presa.png",
+      "category" : "Mugs",
+      "price" : 320
+    },
+    {
+      "id": 15,
+      "title": "Moka Timer",
+      "img": "https://www.bialetti.com/media/catalog/product/cache/e8aa104d064dcf81ed9afb1c9c6893f4/m/o/moka_timer_2.png",
+      "category" : "Accesseries",
+      "price" : 1300
+    }
+  ]
+}
